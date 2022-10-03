@@ -14,5 +14,9 @@
 - There are 60 images in the test set
 ## Mask RCNN:
 The Mask R-CNN model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
-
+## References:
+- https://arxiv.org/pdf/1703.06870.pdf
+- https://github.com/SriRamGovardhanam/wastedata-Mask_RCNN-multiple-classes
+- https://github.com/matterport/Mask_RCNN
+- https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
 
