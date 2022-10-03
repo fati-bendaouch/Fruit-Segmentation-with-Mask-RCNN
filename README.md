@@ -12,5 +12,7 @@
 - There are 3 classes of fruits (Bananas , apples and oranges)
 - There are 240 images in the training set
 - There are 60 images in the test set
+## Mask RCNN:
+The Mask R-CNN model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
 
 
