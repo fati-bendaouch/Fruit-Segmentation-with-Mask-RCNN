@@ -1,4 +1,4 @@
-# Fruit-Segmentation-with-Mask-RCNN
+# Fruit Segmentation and Detection with Mask-RCNN
 - Fruit detection and segmentation using transfer learning on the Mask-RCNN model already trained on the famous COCO Dataset
 - Link to the repo that works on TF2.x: https://github.com/ahmedfgad/Mask-RCNN-TF2
 - Coco weights can be downloaded from: https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
